@@ -1,0 +1,2 @@
+class Snurk < ApplicationRecord
+end
