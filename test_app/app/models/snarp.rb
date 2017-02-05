@@ -1,2 +1,2 @@
-class Snarp < ApplicationRecord
+class Snarp < User
 end
