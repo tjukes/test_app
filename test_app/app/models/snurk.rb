@@ -1,2 +1,2 @@
-class Snurk < ApplicationRecord
+class Snurk < User
 end
