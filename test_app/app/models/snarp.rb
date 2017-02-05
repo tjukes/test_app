@@ -1,0 +1,2 @@
+class Snarp < ApplicationRecord
+end
