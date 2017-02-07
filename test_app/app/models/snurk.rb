@@ -1,0 +1,2 @@
+class Snurk < User
+end
